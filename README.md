@@ -1,2 +1,3 @@
 # hello-world
-Hello-World, learnig to use Git
+Hello-World, learning to use Git
+Following along on-line guide, this is now an exercise in 'commits'
